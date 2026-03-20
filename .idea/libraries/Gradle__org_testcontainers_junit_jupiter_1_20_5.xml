@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.testcontainers:junit-jupiter:1.20.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.testcontainers" artifactId="junit-jupiter" version="1.20.5" baseVersion="1.20.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../bank/bank/gradle/caches/modules-2/files-2.1/org.testcontainers/junit-jupiter/1.20.5/cb8382b1af0b35856b0601c57cad3f04fb76264c/junit-jupiter-1.20.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
